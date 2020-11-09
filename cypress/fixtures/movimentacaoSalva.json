@@ -1,0 +1,50 @@
+[
+    {
+        "conta":"Conta para movimentacoes",
+        "id":286072,
+        "descricao":"Água",
+        "envolvido":"Douglas",
+        "observacao":null,
+        "tipo":"DESP",
+        "data_transacao":"2020-11-02T03:00:00.000Z",
+        "data_pagamento":"2020-11-02T03:00:00.000Z",
+        "valor":"150.00",
+        "status":true,
+        "conta_id":312537,
+        "usuario_id":12072,
+        "transferencia_id":null,
+        "parcelamento_id":null
+     },
+     {
+        "conta":"Conta mesmo nome",
+        "id":286145,
+        "descricao":"Luz",
+        "envolvido":"Marcio",
+        "observacao":null,
+        "tipo":"REC",
+        "data_transacao":"2020-11-02T03:00:00.000Z",
+        "data_pagamento":"2020-11-02T03:00:00.000Z",
+        "valor":"115.00",
+        "status":true,
+        "conta_id":312536,
+        "usuario_id":12072,
+        "transferencia_id":null,
+        "parcelamento_id":null
+     },
+     {
+        "conta":"Conta mesmo nome",
+        "id":286146,
+        "descricao":"Telefone",
+        "envolvido":"José",
+        "observacao":null,
+        "tipo":"REC",
+        "data_transacao":"2020-11-02T03:00:00.000Z",
+        "data_pagamento":"2020-11-02T03:00:00.000Z",
+        "valor":"67.00",
+        "status":true,
+        "conta_id":312536,
+        "usuario_id":12072,
+        "transferencia_id":null,
+        "parcelamento_id":null
+     }
+]
